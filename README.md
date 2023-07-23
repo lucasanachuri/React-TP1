@@ -8,8 +8,8 @@ Consigna: Crear una aplicación web con un componente que muestre en pantalla el
 - CSS3
 - JavaScript.
 - [Bootstrap] (https://getbootstrap.com/) **v5**
-- Node Modules
-- React **v**
+- Node.js **v 18.17.0 LTS**
+- React **v 18.2.0**
 - Vite
 
 ## Contact
