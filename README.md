@@ -10,7 +10,7 @@ Consigna: Crear una aplicación web con un componente que muestre en pantalla el
 - [Bootstrap] (https://getbootstrap.com/) **v5**
 - Node.js **v 18.17.0 LTS**
 - React **v 18.2.0**
-- Vite
+- Vitejs
 
 ## Contact
 
